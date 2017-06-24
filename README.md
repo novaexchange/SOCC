@@ -4,7 +4,7 @@ Socialcoin integration/staging tree
 http://www.socialcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Socialcoin Developers
+Copyright (c) 2017 SocialCoinNetwork Developers
 
 What is Socialcoin?
 ----------------
@@ -19,7 +19,12 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Socialcoin client sofware, see http://www.socialcoin.org.
+the Socialcoin client sofware, see http://www.social-coin.co.uk
+
+SocialCoin is a crypto currency (in the same vein as Bitcoin and Ethereum, two of the well known brands in this space) specifically aimed at the Social Media industry. What does that mean? Read on, below.
+
+Consider how rewarding it would be to be to be paid for your reviews, views, likes and content online. That is exactly what SocialCoin, and The Social Coin Network, aims to achieve. 
+SocialCoin is the original and strongest Social Media currency and is finally bringing cryptocurrency to the masses.
 
 License
 -------
